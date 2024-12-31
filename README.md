@@ -1,5 +1,8 @@
 # Environmental & Social Performance Dashboard
 
+## Note on Data Anonymization and Modifications:
+Due to confidentiality agreements, the data used in this project has been anonymized. The original datasets, while providing valuable insights, have been modified (e.g., by adjusting values or adding fictitious data) to ensure the protection of sensitive business information. Additionally, the Power BI visuals and the organization of pages have been altered to maintain confidentiality and reflect a generalized approach. As a result, the code and formulas shown here are simplified and do not reflect proprietary processes or data. The goal of this portfolio is to showcase my technical skills in data analysis, visualization, and problem-solving, without disclosing any confidential or sensitive information.
+
 ## Overview
 This project showcases an interactive Power BI dashboard developed for a commercial team to analyze and present the environmental and social performance of an organization. The dashboard provides actionable insights into key metrics across environmental and social domains, enabling stakeholders to make data-driven decisions for improvement.
 
